@@ -6,7 +6,7 @@ Benjamin
 
 ### Vie de la promo
 
-- [ ] Élire les délégués de la promo.
+- [x] Élire les délégués de la promo.
 
 ### Terminal
 
@@ -31,9 +31,9 @@ Benjamin
 #### Github
 
 - [x] Pimper son profile Github
-- [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
+- [x] Découvrir l'interface de Github :
+  - [x] Pull Requests
   - [x] Branches
-  - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [x] Issues
+  - [x] Settings projet
+  - [x] Settings profile
