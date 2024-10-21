@@ -6,11 +6,11 @@ Christopher
 
 ### Vie de la promo
 
-- [ ] Élire les délégués de la promo.
+- [x] Élire les délégués de la promo.
 
 ### Git
 
-- [ ] Comprendre le principe de "Pull Request"
+- [x] Comprendre le principe de "Pull Request"
 - [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] `.gitignore` global ou pas ?
