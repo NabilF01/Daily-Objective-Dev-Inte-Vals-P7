@@ -10,7 +10,7 @@ Benjamin
 
 - [x] Découverte des préprocesseurs CSS :
   - [x] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS
-  - [ ] Comprendre le mécanisme du preprocessing (input => output)
+  - [x] Comprendre le mécanisme du preprocessing (input => output)
   - [x] Découvrir le préprocesseur CSS le plus répandu : SASS
     - [x] Installation de SASS (npm version)
-    - [ ] Savoir compiler du SCSS (`sass --watch`)
+    - [x] Savoir compiler du SCSS (`sass --watch`)
